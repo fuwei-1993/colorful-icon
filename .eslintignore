@@ -1,0 +1,8 @@
+templates
+vendor
+dist
+.idea
+.vscode
+Gruntfile.js
+src/engine/build
+*.zip
