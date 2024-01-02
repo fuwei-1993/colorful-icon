@@ -7,7 +7,7 @@
 FontForge 和 font-tools 都需要安装
 
     # OS X
-    brew install fonttools fontforge
+    brew install fonttools fontforge python-setuptools
 
     # Ubuntu, for example
     sudo apt install fonttools fontforge python3-fontforge
